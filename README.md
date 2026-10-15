@@ -7,6 +7,12 @@
 
 </div>
 
+<!-- ENS:TANITIM -->
+## 📸 Ekran görüntüsü
+
+<img src="docs/ekran.png" width="100%" alt="Nardugan ekran görüntüsü">
+<!-- /ENS:TANITIM -->
+
 Yılın en uzun gecesine, kış gündönümüne canlı geri sayım. Gündönümü anını hazır bir tablodan okumaz, astronomik olarak hesaplar.
 
 **[→ Sayacı aç](https://enskygr234.github.io/nardugan/)**
@@ -51,3 +57,19 @@ Sayfadaki kar yağışı [kar.js](https://github.com/Enskygr234/kar-js) ile yap�
 ## Lisans
 
 [MIT](LICENSE) © Winterdeveloper
+
+<!-- ENS:ALT -->
+---
+
+<div align="center">
+
+**❄️ ENS Developer'ın diğer projeleri**
+
+🌐 Web: [Wintercle](https://github.com/Enskygr234/wintercle) · [Buz Şifre](https://github.com/Enskygr234/buz-sifre) · [Piksel Ayaz](https://github.com/Enskygr234/piksel-ayaz) · [Kar Tanesi](https://github.com/Enskygr234/kar-tanesi) · [kar.js](https://github.com/Enskygr234/kar-js)
+
+[🌐 Bütün projeler](https://enskygr234.github.io/ensdewloper.github.io/) · [👤 GitHub profilim](https://github.com/Enskygr234)
+
+<sub>Kış gelir, kod yazılır.</sub>
+
+</div>
+<!-- /ENS:ALT -->
